@@ -1,2 +1,2 @@
 # Blackjack
-A visualization of the Mandelbrot Set
+A text-based simulation of a blackjack game
